@@ -1,4 +1,4 @@
-import Navbar from '@/components/Layout/navbar';
+import Navbar from '@/components/navbar';
 import ProjectCard from "@/components/ProjectCard";
 
 export default function Explore() {
