@@ -1,5 +1,5 @@
-import Navbar from '@/components/navbar';
-import ProjectCard from "@/components/ProjectCard";
+import Navbar from "../components/navbar";
+import ProjectCard from "../components/ProjectCard";
 
 export default function Explore() {
   return (
